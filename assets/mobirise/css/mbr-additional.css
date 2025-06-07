@@ -810,7 +810,7 @@ a {
 }
 .cid-uNpIjXkbhr .mbr-text,
 .cid-uNpIjXkbhr .item .mbr-section-btn {
-  text-align: left;
+  text-align: center;
 }
 .cid-uNpIjXkbhr .item-wrapper {
   background: #ffffff;
@@ -829,9 +829,12 @@ a {
     margin-bottom: 1rem;
   }
 }
+.cid-uNpIjXkbhr .mbr-card-title {
+  text-align: center;
+}
 .cid-uNphbxpYpf {
-  padding-top: 0rem;
-  padding-bottom: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 10rem;
   background-color: #a3a3a3;
 }
 .cid-uNphbxpYpf .mbr-fallback-image.disabled {
